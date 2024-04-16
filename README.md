@@ -1,12 +1,14 @@
-### next template
+## next ui exp
 
-```
-    # プロジェクトの作成
-    npx create-next-app --ts frontend
-    # パッケージのインストール
-    npm install
-    # 新規インストール
-    npm install <package>
-    # 開発サーバーの立ち上げ
-    npm run dev
-```
+## Material UI
+インストール
+https://mui.com/material-ui/getting-started/installation/
+
+Next.js x MUI
+https://mui.com/material-ui/integrations/nextjs/
+
+コンポーネント一覧
+https://mui.com/material-ui/all-components/
+
+Material Icon
+https://mui.com/material-ui/material-icons/
