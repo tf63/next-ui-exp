@@ -1,4 +1,4 @@
-## next ui exp
+# next ui exp
 
 ## Material UI
 インストール
@@ -18,6 +18,8 @@ https://mui.com/material-ui/material-icons/
 インストール
 https://v2.chakra-ui.com/getting-started
 
+コンポーネント
+https://v2.chakra-ui.com/docs/components
 
 ## daisyUI
 インストール
@@ -32,3 +34,9 @@ https://ui.shadcn.com/docs/installation/next
 
 コンポーネント
 https://ui.shadcn.com/examples/mail
+
+## Radix
+インストール
+https://www.radix-ui.com/themes/docs/overview/getting-started
+
+コンポーネント
