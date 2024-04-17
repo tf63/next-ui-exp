@@ -25,3 +25,10 @@ https://daisyui.com/docs/install/
 
 コンポーネント
 https://daisyui.com/components/
+
+## shadcn/i
+インストール
+https://ui.shadcn.com/docs/installation/next
+
+コンポーネント
+https://ui.shadcn.com/examples/mail
