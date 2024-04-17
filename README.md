@@ -15,6 +15,13 @@ https://mui.com/material-ui/material-icons/
 
 
 ## Chakra UI
-
 インストール
 https://v2.chakra-ui.com/getting-started
+
+
+## daisyUI
+インストール
+https://daisyui.com/docs/install/
+
+コンポーネント
+https://daisyui.com/components/
