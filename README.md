@@ -40,3 +40,10 @@ https://ui.shadcn.com/examples/mail
 https://www.radix-ui.com/themes/docs/overview/getting-started
 
 コンポーネント
+
+## Yamada UI
+インストール
+https://yamada-ui.com/ja/getting-started/installation
+
+コンポーネント
+https://yamada-ui.com/ja/components
